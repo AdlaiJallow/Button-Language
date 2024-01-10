@@ -1,0 +1,42 @@
+body{
+  font-family: 'Single Day', cursive;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  /* color: #fff; */
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 150px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+#fr{
+  background-color: blueviolet;
+}
+
+#tr{
+  background-color: chartreuse;
+}
+
+#wl{
+  background-color: darkcyan;
+}
+
+#fl{
+  background-color: royalblue;
+}
+
+#ms{
+  background-color: darkmagenta;
+}
